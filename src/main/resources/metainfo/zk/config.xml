@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>qw</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>cx.Version</version-class>
+		<version-uid>as</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>cx.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>cx.</value>
+	</library-property>
+	-->
+</zk>
